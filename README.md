@@ -4,11 +4,11 @@ My task is to-
 Clean the data then build a dashboard
 I identified the null and duplicate records and removed the columns that are not useful for this Analysis
  Features:
-Profit Analysis by Product Subcategory
+Profit Analysis by Product category
 
 Country-wise Sales Comparison
 
-Top 10 Most Profitable Products
+Top 5 Most Profitable Products
 
 Time-based Trends (Monthly/Quarterly)
 
